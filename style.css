@@ -1,0 +1,13 @@
+.calc_keys {
+
+    display: grid;
+    gap: 20px;
+}
+
+.calculator {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
